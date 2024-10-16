@@ -37,6 +37,11 @@ h2 {
   text-align: center;
 }
 
+p {
+  color: #384960;
+  font-family: monospace, sans-serif;
+  text-align: center;
+}
 .quiz-title {
   color: #384960;
   font-size: 48px;

@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@vitejs/plugin-react": "^4.3.2",
     "he": "^1.2.0",
     "hu": "^0.1.2",
     "react": "^18.3.1",
